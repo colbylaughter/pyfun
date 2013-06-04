@@ -1,0 +1,1 @@
+Ideas: Create a cherry py implementation to track time. 
